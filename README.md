@@ -1,2 +1,2 @@
 # Power-BI
-There are several Power BI projects that provide visualisations on sales
+There are several Power BI projects that provide data visualisations on sales
